@@ -26,3 +26,6 @@ if (randomNumber1 > randomNumber2) {
 else if (randomNumber2 > randomNumber1) {
     h1.innerHTML = "Player 2 Wins! 🚩";
 }
+else {
+    h1.innerHTML = "Draw!";
+}
